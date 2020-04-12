@@ -1,0 +1,6 @@
+syntax = "proto2";
+
+message FightLoginReq {
+    required uint32 roomid = 1;
+    required uint32 ticket = 2;
+}

@@ -1,0 +1,11 @@
+D:\Project\PrivateProject\FrameSyncDemoSvrCSharp\FrameSyncDemoSvrCSharp\bin\Debug\netcoreapp3.1\FrameSyncDemoSvrCSharp.exe
+D:\Project\PrivateProject\FrameSyncDemoSvrCSharp\FrameSyncDemoSvrCSharp\bin\Debug\netcoreapp3.1\FrameSyncDemoSvrCSharp.deps.json
+D:\Project\PrivateProject\FrameSyncDemoSvrCSharp\FrameSyncDemoSvrCSharp\bin\Debug\netcoreapp3.1\FrameSyncDemoSvrCSharp.runtimeconfig.json
+D:\Project\PrivateProject\FrameSyncDemoSvrCSharp\FrameSyncDemoSvrCSharp\bin\Debug\netcoreapp3.1\FrameSyncDemoSvrCSharp.runtimeconfig.dev.json
+D:\Project\PrivateProject\FrameSyncDemoSvrCSharp\FrameSyncDemoSvrCSharp\bin\Debug\netcoreapp3.1\FrameSyncDemoSvrCSharp.dll
+D:\Project\PrivateProject\FrameSyncDemoSvrCSharp\FrameSyncDemoSvrCSharp\bin\Debug\netcoreapp3.1\FrameSyncDemoSvrCSharp.pdb
+D:\Project\PrivateProject\FrameSyncDemoSvrCSharp\FrameSyncDemoSvrCSharp\obj\Debug\netcoreapp3.1\FrameSyncDemoSvrCSharp.AssemblyInfoInputs.cache
+D:\Project\PrivateProject\FrameSyncDemoSvrCSharp\FrameSyncDemoSvrCSharp\obj\Debug\netcoreapp3.1\FrameSyncDemoSvrCSharp.AssemblyInfo.cs
+D:\Project\PrivateProject\FrameSyncDemoSvrCSharp\FrameSyncDemoSvrCSharp\obj\Debug\netcoreapp3.1\FrameSyncDemoSvrCSharp.dll
+D:\Project\PrivateProject\FrameSyncDemoSvrCSharp\FrameSyncDemoSvrCSharp\obj\Debug\netcoreapp3.1\FrameSyncDemoSvrCSharp.pdb
+D:\Project\PrivateProject\FrameSyncDemoSvrCSharp\FrameSyncDemoSvrCSharp\obj\Debug\netcoreapp3.1\FrameSyncDemoSvrCSharp.csprojAssemblyReference.cache

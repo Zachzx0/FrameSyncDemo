@@ -1,0 +1,11 @@
+D:\Project\PrivateProject\Tools\ProtocolSerializeHelper\ProtocolSerializeHelper\bin\Debug\netstandard2.0\ProtocolSerializeHelper.deps.json
+D:\Project\PrivateProject\Tools\ProtocolSerializeHelper\ProtocolSerializeHelper\bin\Debug\netstandard2.0\ProtocolSerializeHelper.dll
+D:\Project\PrivateProject\Tools\ProtocolSerializeHelper\ProtocolSerializeHelper\bin\Debug\netstandard2.0\ProtocolSerializeHelper.pdb
+D:\Project\PrivateProject\Tools\ProtocolSerializeHelper\ProtocolSerializeHelper\bin\Debug\netstandard2.0\protobuf-net.dll
+D:\Project\PrivateProject\Tools\ProtocolSerializeHelper\ProtocolSerializeHelper\bin\Debug\netstandard2.0\protobuf-net.pdb
+D:\Project\PrivateProject\Tools\ProtocolSerializeHelper\ProtocolSerializeHelper\bin\Debug\netstandard2.0\protobuf-net.xml
+D:\Project\PrivateProject\Tools\ProtocolSerializeHelper\ProtocolSerializeHelper\obj\Debug\netstandard2.0\ProtocolSerializeHelper.AssemblyInfoInputs.cache
+D:\Project\PrivateProject\Tools\ProtocolSerializeHelper\ProtocolSerializeHelper\obj\Debug\netstandard2.0\ProtocolSerializeHelper.AssemblyInfo.cs
+D:\Project\PrivateProject\Tools\ProtocolSerializeHelper\ProtocolSerializeHelper\obj\Debug\netstandard2.0\ProtocolSerializeHelper.csproj.CopyComplete
+D:\Project\PrivateProject\Tools\ProtocolSerializeHelper\ProtocolSerializeHelper\obj\Debug\netstandard2.0\ProtocolSerializeHelper.dll
+D:\Project\PrivateProject\Tools\ProtocolSerializeHelper\ProtocolSerializeHelper\obj\Debug\netstandard2.0\ProtocolSerializeHelper.pdb

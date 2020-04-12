@@ -1,0 +1,6 @@
+syntax = "proto2";
+
+message GameLoginReq {
+    required uint32 uin = 1;
+    required string password = 2;
+}
